@@ -1,4 +1,4 @@
-# Deep11 Leave Management System
+# Leave Management System
 
 ![](github-readme-content/banner-image.jpg)  
 
