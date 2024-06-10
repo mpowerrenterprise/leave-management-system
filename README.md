@@ -1,4 +1,4 @@
-# LEAVE MANAGEMENT SYSTEM
+# Leave Management System
 
 ![](github-readme-content/banner-image.jpg)  
 
@@ -148,7 +148,7 @@ This staff setting module is the place where the staff password and username cou
 
 ![](github-readme-content/staff-settings.jpg)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
